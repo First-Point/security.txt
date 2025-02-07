@@ -12,8 +12,9 @@ This repository contains the `security.txt` file for **Firstpoint**, following t
 
 ## **📩 Contact Information**
 - **Security Contact Email:** [security@firstpoint.com.tr](mailto:security@firstpoint.com.tr)  
-- **PGP Key:** Available in [`pgp-key.txt`](pgp-key.txt)  
-- **Security Policy:** [firstpoint.com.tr/security-policy](https://firstpoint.com.tr/security-policy)  
+- **PGP Key:** Available at [`https://firstpoint.com.tr/.well-known/pgp-key.txt`](https://firstpoint.com.tr/.well-known/pgp-key.txt)  
+- **Security Policy:** [`https://firstpoint.com.tr/.well-known/security-policy.txt`](https://firstpoint.com.tr/.well-known/security-policy.txt)  
+
 ---
 
 ## **🔑 How to Verify the Security.txt Signature**
