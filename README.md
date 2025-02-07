@@ -1,7 +1,3 @@
-Here is a `README.md` file for your `security.txt` GitHub repository:  
-
----
-
 ### **📜 Firstpoint Security.txt**  
 This repository contains the `security.txt` file for **Firstpoint**, following the [RFC 9116](https://datatracker.ietf.org/doc/html/rfc9116) standard. It provides security researchers and ethical hackers with the necessary contact information for reporting vulnerabilities responsibly.
 
